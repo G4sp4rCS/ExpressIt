@@ -13,7 +13,7 @@ const session = require('express-session');
 const { debug } = require('console');
 const multer = require('multer');
 
-
+// no funciona..
 const storage = multer.diskStorage({
     destination: '/public/img/imgPost',
     filename: (req, file, cb) => {

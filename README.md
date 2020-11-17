@@ -1,4 +1,11 @@
-# ExpressIt
+# ExpressIt = voxed 4.0
+
+---
+
+## PRS ARE WELCOME || PRS BIENVENIDOS
+
+Tras la caida de voxed.net, voy a retomar este proyecto.
+
 Social media with 100% speech freedom
 
 Express It! is a project for a total free speech freedom and semi-anon.
